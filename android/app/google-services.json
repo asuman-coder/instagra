@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "597545502479",
+    "project_id": "asuman-instagra",
+    "storage_bucket": "asuman-instagra.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:597545502479:android:11689599061f7d5d0b207a",
+        "android_client_info": {
+          "package_name": "com.asuman.instagra"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "597545502479-06a5s7914521cstnsm53qjmg0nn44qgt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhk7lS8KDWQ-KrP_gRJlFLMtOS-27FLqg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "597545502479-06a5s7914521cstnsm53qjmg0nn44qgt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
